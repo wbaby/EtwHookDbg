@@ -8,7 +8,10 @@
     7.DebugObect 移位
     
 #效果图如下:
-![image]()
+![image](https://github.com/HOOK11/EtwHookDbg/blob/master/Img/QQ%E5%9B%BE%E7%89%8720231024165838.jpg)
+
+#ps:正常附加下段调试  
+    Dbgk.c 调试事件采集函数 应该是梦无极调试教程 火哥完善
 
 
     
