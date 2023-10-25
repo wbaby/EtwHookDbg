@@ -8,6 +8,7 @@
     7.DebugObect 移位
     
 #效果图如下:
+![image]()
 
 
     
