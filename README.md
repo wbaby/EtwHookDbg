@@ -5,7 +5,6 @@
     4.内存属性修改
     5.调试API组件
     6.PEB 标识位begin
-    7.DebugObect 移位
     
 #效果图如下:
 ![image](https://github.com/HOOK11/EtwHookDbg/blob/master/Img/QQ%E5%9B%BE%E7%89%8720231024165838.jpg)
